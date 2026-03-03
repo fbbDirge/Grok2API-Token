@@ -1,0 +1,12 @@
+{
+  "service_url": {
+    "type": "string",
+    "default": "",
+    "description": "Grok2API 服务地址，例如：http://your-server:8000"
+  },
+  "service_password": {
+    "type": "string",
+    "default": "",
+    "description": "Grok2API 管理员密码（即 app.app_key 配置项）"
+  }
+}
