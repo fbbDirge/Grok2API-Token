@@ -18,6 +18,7 @@
 ## 安装
 
 在 AstrBot 管理面板 → 插件市场中搜索并安装，或手动将本仓库克隆到 AstrBot 的 `addons/plugins/` 目录下。
+可以配合[Grok AI 助手](https://github.com/fbbDirge/Grok-AI-AstrBot-Plugin)使用,来实时监控Grok2API Token 号池状态。
 
 ## 配置
 
